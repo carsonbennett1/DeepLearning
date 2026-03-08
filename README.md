@@ -1,5 +1,5 @@
 ﻿# DeepLearning
-#### Loss Functions
+### Loss Functions
 To see the visualizations and explanations for the following loss functions:
 - Step
 - Mean Squared Error (MSE)
@@ -8,7 +8,7 @@ To see the visualizations and explanations for the following loss functions:
 
 See the following [notebook](https://github.com/carsonbennett1/DeepLearning/blob/main/LossFunctions.ipynb)
 
-#### Regularization Techniques
+### Regularization Techniques
 To see the visualizations associated with the following regularization techniques:
 - L1, L2, Elastic Net
 - Dropout
@@ -26,3 +26,4 @@ To see the visualizations associated with the following optimizers and their plo
 - Adam (Adaptive Moment Estimation)
 
 See the following [notebook](https://github.com/carsonbennett1/DeepLearning/blob/main/Optimizers.ipynb)
+
