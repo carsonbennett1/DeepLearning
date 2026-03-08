@@ -15,3 +15,14 @@ To see the visualizations associated with the following regularization technique
 - Batch Normalization
 
 See the following [notebook](https://github.com/carsonbennett1/DeepLearning/blob/main/Regularization.ipynb)
+
+### Optimizers
+To see the visualizations associated with the following optimizers and their plotted losees:
+- Full Batch Gradient Descent
+- Mini-batch SGD (Stochastic Gradient Descent)
+- SGD + Momentum
+- Adagrad
+- RMSProp (Root Mean Square Propogation)
+- Adam (Adaptive Moment Estimation)
+
+See the following [notebook](https://github.com/carsonbennett1/DeepLearning/blob/main/Optimizers.ipynb)
